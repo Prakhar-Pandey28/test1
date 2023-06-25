@@ -1,4 +1,4 @@
-Accept five words as input and print the sentence formed by these words after adding a space between consecutive words and a full stop at the end.
+#Accept five words as input and print the sentence formed by these words after adding a space between consecutive words and a full stop at the end.
 word1 = input()
 word2 = input()
 word3 = input()
