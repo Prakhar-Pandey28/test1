@@ -19,7 +19,9 @@ while command.lower() !="quit":
         print("""
         start - chalu karne ke liye
         stop - band karne ke liye
-        quit - to quit
+        quit - to quit     
         """)
+    elif command == "quit":
+        break
     else:
         print("Sorry, itna padha likha nhi hu")
