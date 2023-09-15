@@ -24,4 +24,4 @@ while command.lower() !="quit":
     elif command == "quit":
         break
     else:
-        print("Sorry, itna padha likha nhi hu")
+        print("क्षमा कीजिए ")
