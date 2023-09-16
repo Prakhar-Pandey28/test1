@@ -1,6 +1,6 @@
 command = ""
 started = False
-while command.lower() !="quit":
+while True
     command = input(">").lower()
     if command== "start":
         if started:
