@@ -19,7 +19,7 @@ while True:
         print("""
     start - chalu karne ke liye
     stop - band karne ke liye
-    quit - to quit     
+        quit - to quit     
         """)
     elif command == "quit":
         break
